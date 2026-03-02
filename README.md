@@ -217,7 +217,7 @@ Revenue concentration observed in a small percentage of products.
 
 # 👨‍💻 Author
 
-**Ashwin Ashok Yadav**  
+**Ashwin Yadav**  
 Integrated M.Sc. IT – Data Management, Analytics & Visual Insight
 
 ---
